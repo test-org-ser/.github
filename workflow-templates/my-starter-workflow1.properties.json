@@ -3,6 +3,6 @@
     "description": "オリジナルのスターターワークフローです。",
     "iconName": "example-icon",
     "categories": [
-        "Java"
+        "deployment"
     ]
 }
