@@ -4,5 +4,10 @@
     "iconName": "example-icon",
     "categories": [
         "deployment"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
     ]
 }
