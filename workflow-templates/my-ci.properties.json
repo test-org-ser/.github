@@ -1,6 +1,6 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI starter workflow.",
+    "name": "オリジナルのスターターワークフロー",
+    "description": "Hello WorldをDockerビルドしてghcrにPUSHします",
     "iconName": "example-icon",
     "categories": [
         "Go"
