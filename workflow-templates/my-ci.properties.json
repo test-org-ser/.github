@@ -3,7 +3,7 @@
     "description": "Hello WorldをDockerビルドしてghcrにPUSHします",
     "iconName": "example-icon",
     "categories": [
-        "Go"
+        "Python"
     ],
     "filePatterns": [
         "package.json$",
