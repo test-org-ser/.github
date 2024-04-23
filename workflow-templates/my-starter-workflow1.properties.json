@@ -1,0 +1,8 @@
+{
+    "name": "Organization My Starter Workflow",
+    "description": "オリジナルのスターターワークフローです。",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ]
+}
