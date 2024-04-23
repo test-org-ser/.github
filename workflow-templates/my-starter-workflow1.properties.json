@@ -1,6 +1,6 @@
 {
     "name": "Organization My Starter Workflow",
-    "description": "オリジナルのスターターワークフローです。",
+    "description": "my test workflow.",
     "iconName": "example-icon",
     "categories": [
         "deployment"
